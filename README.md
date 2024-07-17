@@ -1,4 +1,4 @@
-# html-portfolio
+# PORTFOLIO Beginner
 This is a basic HTML portfolio website showcasing my skills and interests as a web developer. The site features a clean and modern design, highlighting my top 3 favorite movies and a fun birthday invite project.
 
 Key Features:
